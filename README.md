@@ -13,3 +13,5 @@ Deploy ```target/WebApp.war``` on Tomcat
 #TODO
  
 Add instruction to deploy to ElasticBeanstalk
+
+### Added New content to test commit on PULL SCM on JENKINS. Each time a code is commited JENKINS will pull the code and orchestrate the Built 
